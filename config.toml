@@ -1,0 +1,9 @@
+baseURL = 'http://oludo.com.br'
+languageCode = 'pt-br'
+title = 'Oludo'
+theme = 'oludo'
+enableRobotsTXT = true
+
+[params]
+Pixel = "337191138296175"
+GTags = ['G-WTWXJMGSBH']

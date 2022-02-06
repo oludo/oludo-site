@@ -1,0 +1,18 @@
+<article class="case">
+  {{$author := .Person}}
+  
+  <blockquote>
+    <p>{{.Quote | safeHTML}}</p>
+  </blockquote>
+  
+  <footer>
+    <img class="person" src="{{$author.Avatar.Src}}" alt="{{$author.Avatar.Alt}}">
+    
+    <address>
+      <ul>
+        <li>{{$author.Name}}</li>
+        <li>{{$author.Designation}}</li>
+      </ul>
+    </address>
+  </footer>
+</article>
