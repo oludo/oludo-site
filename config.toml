@@ -1,4 +1,4 @@
-baseURL = 'http://www.oludo.com.br'
+baseURL = 'https://www.oludo.com.br'
 languageCode = 'pt-br'
 title = 'Oludo'
 theme = 'oludo'
