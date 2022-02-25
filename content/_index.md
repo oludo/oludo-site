@@ -13,7 +13,7 @@ Hero:
     Title: WhatsApp
     Text: Quero Clientes
     Href: >-
-      https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+seu+neg%C3%B3cio.&app_absent=0
+      https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
     Type: whatsapp
   Image:
     File: ""
@@ -28,7 +28,7 @@ Offer:
     Title: WhatsApp
     Text: Quero conversar
     Href: >-
-      https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+seu+neg%C3%B3cio.&app_absent=0
+      https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
     Type: whatsapp
 
 Words:
