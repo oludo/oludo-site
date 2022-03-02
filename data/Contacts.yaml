@@ -1,8 +1,8 @@
-WhatsApp:
-  Title: WhatsApp
-  Text: (21) 97610-0900
-  Href: https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
-  Icon: /images/icons/whatsapp.svg
+# WhatsApp:
+#   Title: WhatsApp
+#   Text: (21) 97610-0900
+#   Href: https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
+#   Icon: /images/icons/whatsapp.svg
 
 Telephone:
   Title: Telefone
@@ -10,8 +10,8 @@ Telephone:
   Href: tel:+5521976100900
   Icon: /images/icons/telephone.svg
 
-WhatsAppFloating:
-  Title: WhatsAppFloating
-  Text: (21) 97610-0900
-  Href: https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
-  Icon: /images/icons/wp_btn.svg
+# WhatsAppFloating:
+#   Title: WhatsAppFloating
+#   Text: (21) 97610-0900
+#   Href: https://api.whatsapp.com/send/?phone=5521976100900&text=Ol%C3%A1%21+Eu+preciso+de+mais+clientes.+Poderia+me+ajudar%3F&app_absent=0
+#   Icon: /images/icons/wp_btn.svg
